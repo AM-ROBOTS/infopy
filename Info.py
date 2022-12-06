@@ -125,3 +125,7 @@ SELF_DELETE = environ.get('SELF_DELETE', True)
 if SELF_DELETE == "True":
 
     SELF_DELETE = True
+
+SHORT_LINK_API= 
+
+SHORT_LINK_URL=
